@@ -1,0 +1,18 @@
+Create 1 1000.01
+Create 2 2000.02
+Create 3 3000.03
+Deposit 1 11.11
+Deposit 2 22.22
+Withdraw 4 5000.00
+Create 4 4000.04
+Withdraw 1 0.10
+Balance 2
+Withdraw 2 0.20
+Deposit 3 33.33
+Withdraw 4 0.40
+Bad Command 65
+Balance 1
+Balance 2
+Balance 3
+Balance 4
+
