@@ -1,0 +1,5 @@
+  1002 Hammer       23.65  203
+  1024 Nails         6.95  400
+  1276 Screwdriver  13.95  251
+  1385 Elec_Drill   45.69  132
+  1462 Air_Filter    7.95  500
